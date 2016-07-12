@@ -1,0 +1,368 @@
+# depslib dependency file v1.0
+1446787681 source:e:\megasync\cucei\sem_pro\proyecto\actividad 10 comunicación entre clases\main.cpp
+	"Tecnico.h"
+	"Cliente.h"
+	"Cita.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+	<fstream>
+	<cstdlib>
+
+1446826079 e:\megasync\cucei\sem_pro\proyecto\actividad 10 comunicación entre clases\include\cliente.h
+	<iostream>
+
+1446826053 e:\megasync\cucei\sem_pro\proyecto\actividad 10 comunicación entre clases\include\cita.h
+	<iostream>
+
+1446826053 e:\megasync\cucei\sem_pro\proyecto\actividad 10 comunicación entre clases\include\tecnico.h
+	<iostream>
+
+1446787693 source:e:\megasync\cucei\sem_pro\proyecto\actividad 10 comunicación entre clases\src\cita.cpp
+	"Cita.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+	<fstream>
+
+1446787200 source:e:\megasync\cucei\sem_pro\proyecto\actividad 10 comunicación entre clases\src\cliente.cpp
+	"Cliente.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+	<fstream>
+
+1446509255 source:e:\megasync\cucei\sem_pro\proyecto\actividad 10 comunicación entre clases\src\tecnico.cpp
+	"Tecnico.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+	<fstream>
+
+1446749508 source:e:\megasync\cucei\sem_pro\proyecto\actividad 10 comunicación entre clases\src\reporte.cpp
+	"Reporte.h"
+
+1446749508 e:\megasync\cucei\sem_pro\proyecto\actividad 10 comunicación entre clases\include\reporte.h
+
+1446787693 source:c:\users\ilariosx\my files\cucei\sem_pro\proyecto\actividad 10 comunicación entre clases\src\cita.cpp
+	"Cita.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+	<fstream>
+
+1446787854 c:\users\ilariosx\my files\cucei\sem_pro\proyecto\actividad 10 comunicación entre clases\include\cita.h
+	<iostream>
+
+1446787200 source:c:\users\ilariosx\my files\cucei\sem_pro\proyecto\actividad 10 comunicación entre clases\src\cliente.cpp
+	"Cliente.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+	<fstream>
+
+1446787887 c:\users\ilariosx\my files\cucei\sem_pro\proyecto\actividad 10 comunicación entre clases\include\cliente.h
+	<iostream>
+
+1446787681 source:c:\users\ilariosx\my files\cucei\sem_pro\proyecto\actividad 10 comunicación entre clases\main.cpp
+	"Tecnico.h"
+	"Cliente.h"
+	"Cita.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+	<fstream>
+	<cstdlib>
+
+1446787831 c:\users\ilariosx\my files\cucei\sem_pro\proyecto\actividad 10 comunicación entre clases\include\tecnico.h
+	<iostream>
+
+1446749508 c:\users\ilariosx\my files\cucei\sem_pro\proyecto\actividad 10 comunicación entre clases\include\reporte.h
+
+1446776186 source:c:\users\ilariosx\my files\cucei\sem_pro\proyecto\actividad 10 comunicación entre clases\src\tecnico.cpp
+	"Tecnico.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+	<fstream>
+
+1446897318 source:e:\megasync\cucei\sem_pro\proyecto\ndd_experimental\main.cpp
+	"Tecnico.h"
+	"Cliente.h"
+	"Cita.h"
+	"Reporte.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+	<fstream>
+	<cstdlib>
+
+1446888556 e:\megasync\cucei\sem_pro\proyecto\ndd_experimental\include\tecnico.h
+	<iostream>
+
+1446895427 e:\megasync\cucei\sem_pro\proyecto\ndd_experimental\include\cliente.h
+	<iostream>
+
+1446895434 e:\megasync\cucei\sem_pro\proyecto\ndd_experimental\include\cita.h
+	<iostream>
+
+1446894411 e:\megasync\cucei\sem_pro\proyecto\ndd_experimental\include\reporte.h
+	<iostream>
+
+1446897318 source:c:\users\ilariosx\my files\cucei\sem_pro\proyecto\ndd_experimental\main.cpp
+	"Tecnico.h"
+	"Cliente.h"
+	"Cita.h"
+	"Reporte.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+	<fstream>
+	<cstdlib>
+
+1446888556 c:\users\ilariosx\my files\cucei\sem_pro\proyecto\ndd_experimental\include\tecnico.h
+	<iostream>
+
+1446895427 c:\users\ilariosx\my files\cucei\sem_pro\proyecto\ndd_experimental\include\cliente.h
+	<iostream>
+
+1446895434 c:\users\ilariosx\my files\cucei\sem_pro\proyecto\ndd_experimental\include\cita.h
+	<iostream>
+
+1446894411 c:\users\ilariosx\my files\cucei\sem_pro\proyecto\ndd_experimental\include\reporte.h
+	<iostream>
+
+1446896100 source:c:\users\ilariosx\my files\cucei\sem_pro\proyecto\ndd_experimental\src\cita.cpp
+	"Cita.h"
+	"Tecnico.h"
+	"Cliente.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+	<fstream>
+
+1446895825 source:c:\users\ilariosx\my files\cucei\sem_pro\proyecto\ndd_experimental\src\cliente.cpp
+	"Cliente.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+	<fstream>
+
+1446897815 source:c:\users\ilariosx\my files\cucei\sem_pro\proyecto\ndd_experimental\src\reporte.cpp
+	"Reporte.h"
+	"Cita.h"
+	"Cliente.h"
+	"Tecnico.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+	<fstream>
+
+1446897815 source:c:\users\ilariosx\my files\cucei\sem_pro\proyecto\ndd_experimental\src\tecnico.cpp
+	"Tecnico.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+	<fstream>
+
+1446896100 source:e:\megasync\cucei\sem_pro\proyecto\ndd_experimental\src\cita.cpp
+	"Cita.h"
+	"Tecnico.h"
+	"Cliente.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+	<fstream>
+
+1446895825 source:e:\megasync\cucei\sem_pro\proyecto\ndd_experimental\src\cliente.cpp
+	"Cliente.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+	<fstream>
+
+1446897815 source:e:\megasync\cucei\sem_pro\proyecto\ndd_experimental\src\reporte.cpp
+	"Reporte.h"
+	"Cita.h"
+	"Cliente.h"
+	"Tecnico.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+	<fstream>
+
+1446897815 source:e:\megasync\cucei\sem_pro\proyecto\ndd_experimental\src\tecnico.cpp
+	"Tecnico.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+	<fstream>
+
+1446897318 source:c:\users\ilariosx\mis archivos\cucei\sem_pro\proyecto\actividad 10 comunicación entre clases\main.cpp
+	"Tecnico.h"
+	"Cliente.h"
+	"Cita.h"
+	"Reporte.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+	<fstream>
+	<cstdlib>
+
+1446888556 c:\users\ilariosx\mis archivos\cucei\sem_pro\proyecto\actividad 10 comunicación entre clases\include\tecnico.h
+	<iostream>
+
+1446895427 c:\users\ilariosx\mis archivos\cucei\sem_pro\proyecto\actividad 10 comunicación entre clases\include\cliente.h
+	<iostream>
+
+1446895434 c:\users\ilariosx\mis archivos\cucei\sem_pro\proyecto\actividad 10 comunicación entre clases\include\cita.h
+	<iostream>
+
+1446894411 c:\users\ilariosx\mis archivos\cucei\sem_pro\proyecto\actividad 10 comunicación entre clases\include\reporte.h
+	<iostream>
+
+1446896100 source:c:\users\ilariosx\mis archivos\cucei\sem_pro\proyecto\actividad 10 comunicación entre clases\src\cita.cpp
+	"Cita.h"
+	"Tecnico.h"
+	"Cliente.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+	<fstream>
+
+1446895825 source:c:\users\ilariosx\mis archivos\cucei\sem_pro\proyecto\actividad 10 comunicación entre clases\src\cliente.cpp
+	"Cliente.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+	<fstream>
+
+1446897815 source:c:\users\ilariosx\mis archivos\cucei\sem_pro\proyecto\actividad 10 comunicación entre clases\src\reporte.cpp
+	"Reporte.h"
+	"Cita.h"
+	"Cliente.h"
+	"Tecnico.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+	<fstream>
+
+1446897815 source:c:\users\ilariosx\mis archivos\cucei\sem_pro\proyecto\actividad 10 comunicación entre clases\src\tecnico.cpp
+	"Tecnico.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+	<fstream>
+
+1448470722 source:d:\cloudfiles\dropbox\cucei\sem_pro\proyecto\actividad 10 comunicación entre clases\main.cpp
+	"Tecnico.h"
+	"Cliente.h"
+	"Cita.h"
+	"Reporte.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+	<fstream>
+	<cstdlib>
+
+1446888556 d:\cloudfiles\dropbox\cucei\sem_pro\proyecto\actividad 10 comunicación entre clases\include\tecnico.h
+	<iostream>
+
+1446895427 d:\cloudfiles\dropbox\cucei\sem_pro\proyecto\actividad 10 comunicación entre clases\include\cliente.h
+	<iostream>
+
+1446895434 d:\cloudfiles\dropbox\cucei\sem_pro\proyecto\actividad 10 comunicación entre clases\include\cita.h
+	<iostream>
+
+1446894411 d:\cloudfiles\dropbox\cucei\sem_pro\proyecto\actividad 10 comunicación entre clases\include\reporte.h
+	<iostream>
+
+1448703277 source:d:\cloudfiles\dropbox\cucei\sem_pro\proyecto\actividad 10 comunicación entre clases\src\cita.cpp
+	"Cita.h"
+	"Tecnico.h"
+	"Cliente.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+	<fstream>
+
+1448702622 source:d:\cloudfiles\dropbox\cucei\sem_pro\proyecto\actividad 10 comunicación entre clases\src\cliente.cpp
+	"Cliente.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+	<fstream>
+
+1448705050 source:d:\cloudfiles\dropbox\cucei\sem_pro\proyecto\actividad 10 comunicación entre clases\src\reporte.cpp
+	"Reporte.h"
+	"Cita.h"
+	"Cliente.h"
+	"Tecnico.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+	<fstream>
+
+1448701965 source:d:\cloudfiles\dropbox\cucei\sem_pro\proyecto\actividad 10 comunicación entre clases\src\tecnico.cpp
+	"Tecnico.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+	<fstream>
+
+1448470722 source:d:\cloudfiles\dropbox\cucei\sem_pro\proyecto\actividad 12 integración del proyecto\main.cpp
+	"Tecnico.h"
+	"Cliente.h"
+	"Cita.h"
+	"Reporte.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+	<fstream>
+	<cstdlib>
+
+1446888556 d:\cloudfiles\dropbox\cucei\sem_pro\proyecto\actividad 12 integración del proyecto\include\tecnico.h
+	<iostream>
+
+1446895427 d:\cloudfiles\dropbox\cucei\sem_pro\proyecto\actividad 12 integración del proyecto\include\cliente.h
+	<iostream>
+
+1446895434 d:\cloudfiles\dropbox\cucei\sem_pro\proyecto\actividad 12 integración del proyecto\include\cita.h
+	<iostream>
+
+1446894411 d:\cloudfiles\dropbox\cucei\sem_pro\proyecto\actividad 12 integración del proyecto\include\reporte.h
+	<iostream>
+
+1448703277 source:d:\cloudfiles\dropbox\cucei\sem_pro\proyecto\actividad 12 integración del proyecto\src\cita.cpp
+	"Cita.h"
+	"Tecnico.h"
+	"Cliente.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+	<fstream>
+
+1448702622 source:d:\cloudfiles\dropbox\cucei\sem_pro\proyecto\actividad 12 integración del proyecto\src\cliente.cpp
+	"Cliente.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+	<fstream>
+
+1448705050 source:d:\cloudfiles\dropbox\cucei\sem_pro\proyecto\actividad 12 integración del proyecto\src\reporte.cpp
+	"Reporte.h"
+	"Cita.h"
+	"Cliente.h"
+	"Tecnico.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+	<fstream>
+
+1448701965 source:d:\cloudfiles\dropbox\cucei\sem_pro\proyecto\actividad 12 integración del proyecto\src\tecnico.cpp
+	"Tecnico.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+	<fstream>
+
