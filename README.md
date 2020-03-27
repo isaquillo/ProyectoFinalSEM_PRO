@@ -1,2 +1,2 @@
 # ProyectoFinalSEM_PRO
-Trabajo final realizado en la materia de Seminario de Programación CUCEI
+Trabajo final realizado en la materia de Seminario de Programación
